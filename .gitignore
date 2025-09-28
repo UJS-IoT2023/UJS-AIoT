@@ -1,0 +1,8 @@
+*.pth
+*.tflite
+*.h5
+*.keras
+*.png
+*.jpg
+
+**/data
