@@ -1,0 +1,17 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Teckwork/ppts/ai/2025/Labs/codes/Lab/Lab3-cats/gapp/app/src/main/res/layout/activity_image_classifier.xml" value="0.151268115942029" />
+        <entry key="..\:/Teckwork/ppts/ai/2025/Labs/codes/Lab/_prjs/gapp/app/src/main/res/layout/activity_image_classifier.xml" value="0.14266304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
